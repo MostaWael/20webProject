@@ -1,0 +1,22 @@
+flex direction : used to set the main axis in which we need to set items
+list-style-type: in this property you set the value of how you want the style be
+selector:not(class) : this property is used to set style to the element which not have the 'class'
+prespective: it make the shape looks like 3d
+
+//javascript nots
+
+we use classList.toggale to remove class anf add it
+
+  //Storing the seats in session storage
+  //steps
+  /* 
+  Copy selected seats into arr
+  Map through array
+  return a new array indexes
+  */
+
+  map(): it work like forEach but in you return something
+
+  explain the indexing algorithm for storing seats:
+  the map check the seat from the selected seats in the 
+  seats and return the index of thi seats
