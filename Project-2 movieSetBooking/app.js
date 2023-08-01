@@ -5,6 +5,8 @@ const price = document.getElementById("price");
 const movieSelect = document.getElementById("movie");
 let tiketPirce = +movieSelect.value;
 
+updateSelectedCount();
+
 populateUI();
 
 //Save selected movie index
